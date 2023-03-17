@@ -1,5 +1,8 @@
 'use strict';
 import '@babel/polyfill';
-import './style/siimple.css'
 import './index.html';
 import './index.scss';
+import * as bootstrap from 'bootstrap';
+import './utils/variables'
+import './components'
+
